@@ -1,5 +1,12 @@
 # @antivixen/react-if-else
 
+## 0.0.4
+
+### Patch Changes
+
+- 1767a2e: edit react types
+- ccd6669: edit lockfile
+
 ## 0.0.3
 
 ### Patch Changes
