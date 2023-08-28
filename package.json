@@ -1,6 +1,6 @@
 {
   "name": "@antivixen/react-if-else",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "React JS library for the conditional rendering",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",

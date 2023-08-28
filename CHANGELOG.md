@@ -1,5 +1,11 @@
 # @antivixen/react-if-else
 
+## 0.0.6
+
+### Patch Changes
+
+- 80c415f: add react to peers
+
 ## 0.0.5
 
 ### Patch Changes
