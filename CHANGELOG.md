@@ -1,5 +1,11 @@
 # @antivixen/react-if-else
 
+## 0.0.5
+
+### Patch Changes
+
+- c28703c: edit vite config
+
 ## 0.0.4
 
 ### Patch Changes
